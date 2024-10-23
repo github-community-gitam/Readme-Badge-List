@@ -1,5 +1,7 @@
 # GitHub Community GITAM 
 
+![Banner](Gititdone_readme_repo.gif)
+
 An extensive list of static Shields.io badges, sorted by category.
 
 ## Table Of Contents
